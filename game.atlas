@@ -1,0 +1,125 @@
+
+game.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Beach
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Beach2
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Beach3
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Beach4
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cliff
+  rotate: false
+  xy: 148, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cliff2
+  rotate: false
+  xy: 220, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cliff_template
+  rotate: false
+  xy: 292, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hot Springs
+  rotate: false
+  xy: 364, 44
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Reef
+  rotate: false
+  xy: 436, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcanic Soil
+  rotate: false
+  xy: 508, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcanic Soil2
+  rotate: false
+  xy: 508, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcanic Soil3
+  rotate: false
+  xy: 580, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcanic Soil4
+  rotate: false
+  xy: 580, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcano
+  rotate: false
+  xy: 652, 44
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcano2
+  rotate: false
+  xy: 724, 44
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcano3
+  rotate: false
+  xy: 796, 44
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Waterfall
+  rotate: false
+  xy: 868, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

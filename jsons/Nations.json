@@ -1,0 +1,159 @@
+[
+    {
+		"name": "Romania",  // Плейстайл: Вампірізм і Крадіжки мирняка
+		"leaderName": "Vlad III",
+		"style": "Vampire",
+		"startBias": [],
+		"preferredVictoryType": "Neutral",
+		"personality": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "Sample text.",
+		"attacked": "Sample text.",
+		"defeated": "Sample text.",
+		"introduction": "Sample text.",
+		"neutralHello": "neutralHello",
+		"hateHello": "",
+		"tradeRequest": "Sample text.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Кров і Цигани",
+		"uniqueText": "",
+		"uniques": ["Vampire"],
+		"cities": ["DraculaCity"]
+	},
+	{
+		"name": "Afganistan",  // Плейстайл: Заманити противника на свою територію.
+		"leaderName": "Mohammed",
+		"style": "Middle East",
+		"startBias": [],
+		"preferredVictoryType": "Neutral",
+		"personality": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "Sample text.",
+		"attacked": "Sample text.",
+		"defeated": "Sample text.",
+		"introduction": "Sample text.",
+		"neutralHello": "neutralHello",
+		"hateHello": "",
+		"tradeRequest": "Sample text.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Кладовище Імперій",
+		"uniqueText": "",
+		"uniques": ["Coka"],
+		"cities": ["DraculaCity"]
+	},
+	{
+		"name": "Vietnam",  // Плейстайл: Пастки, Джуглі. Типу гра за тімо.
+		"leaderName": "Gook",
+		"style": "Jungle",
+		"startBias": [],
+		"preferredVictoryType": "Neutral",
+		"personality": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "Sample text.",
+		"attacked": "Sample text.",
+		"defeated": "Sample text.",
+		"introduction": "Sample text.",
+		"neutralHello": "neutralHello",
+		"hateHello": "",
+		"tradeRequest": "Sample text.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Джоні, вони на деревах!",
+		"uniqueText": "",
+		"uniques": ["teemo"],
+		"cities": ["DraculaCity"]
+	},
+	{
+		"name": "Canada",  // Плейстайл: Чіловий. Мирний. Терплячий.
+		"leaderName": "Gook",
+		"style": "Western",
+		"startBias": [],
+		"preferredVictoryType": "Neutral",
+		"personality": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "Sample text.",
+		"attacked": "Sample text.",
+		"defeated": "Sample text.",
+		"introduction": "Sample text.",
+		"neutralHello": "neutralHello",
+		"hateHello": "",
+		"tradeRequest": "Sample text.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Українська діаспора",
+		"uniqueText": "",
+		"uniques": ["cyrup"],
+		"cities": ["Ottawa"]
+	},
+	{
+		"name": "Finland",  // Плейстайл: Чіловий. Мирний. Терплячий.
+		"leaderName": "Gook",
+		"style": "Western",
+		"startBias": [],
+		"preferredVictoryType": "Neutral",
+		"personality": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "Sample text.",
+		"attacked": "Sample text.",
+		"defeated": "Sample text.",
+		"introduction": "Sample text.",
+		"neutralHello": "neutralHello",
+		"hateHello": "",
+		"tradeRequest": "Sample text.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Українська діаспора",
+		"uniqueText": "",
+		"uniques": ["cyrup"],
+		"cities": ["Ottawa"]
+	},
+	{
+		"name": "Canada",  // Плейстайл: Чіловий. Мирний. Терплячий.
+		"leaderName": "Gook",
+		"style": "Western",
+		"startBias": [],
+		"preferredVictoryType": "Neutral",
+		"personality": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "Sample text.",
+		"attacked": "Sample text.",
+		"defeated": "Sample text.",
+		"introduction": "Sample text.",
+		"neutralHello": "neutralHello",
+		"hateHello": "",
+		"tradeRequest": "Sample text.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Українська діаспора",
+		"uniqueText": "",
+		"uniques": ["cyrup"],
+		"cities": ["Ottawa"]
+	},
+	
+]
